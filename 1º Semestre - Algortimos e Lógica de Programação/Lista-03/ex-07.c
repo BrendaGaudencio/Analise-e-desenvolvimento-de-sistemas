@@ -1,4 +1,4 @@
-/*6. Faça um programa aonde você entre com 10 números e no
+/*7. Faça um programa aonde você entre com 10 números e no
 final imprima qual foi o maior e qual foi o menor.*/
 
 #include <stdio.h>
