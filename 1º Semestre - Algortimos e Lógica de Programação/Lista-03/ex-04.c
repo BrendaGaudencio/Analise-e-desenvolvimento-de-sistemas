@@ -1,4 +1,4 @@
-//* 4. Imprima os 100 primeiros pares.
+//*4. Imprima os 100 primeiros pares.
 
 #include <stdio.h>
 

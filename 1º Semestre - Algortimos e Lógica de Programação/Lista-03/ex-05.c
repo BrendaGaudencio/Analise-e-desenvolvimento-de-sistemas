@@ -1,4 +1,4 @@
-//* 5. Imprimir o intervalo de 120 a 300
+//*5. Imprimir o intervalo de 120 a 300
 
 #include <stdio.h>
 

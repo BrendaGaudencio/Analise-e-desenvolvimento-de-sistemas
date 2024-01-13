@@ -1,4 +1,4 @@
-/* 6. Crie um programa que receba o ponto inicial, o final e o
+/*6. Crie um programa que receba o ponto inicial, o final e o
 incremento e imprima os números de acordo com esta informação.
 Por exemplo: inicial = 5, final = 10, intervalo = 2, resultado: 5 7 9 */
 

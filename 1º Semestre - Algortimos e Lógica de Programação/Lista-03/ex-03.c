@@ -1,4 +1,4 @@
-/* 3. Imprima todos os números de 100 até 1*/
+/*3. Imprima todos os números de 100 até 1*/
 
 #include <stdio.h>
 
